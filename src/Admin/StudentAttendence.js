@@ -117,7 +117,7 @@ const StudentAttendence = () => {
                 <Button type='button' variant='success' href='/' className='showbtn'> &#10594; Show Form</Button>
             </Container>
             <span><p className=' position-absolute bottom-0 '><b className='text-danger'>Note : </b>Json server are not conect with live link so dynamic data are not loded </p>
-            // <p><b className='text-success'>Source code : </b><Link to="https://github.com/Divyeshkalariya/student-attendance-app.git">Click here for source code</Link></p>
+            <p><b className='text-success'>Source code : </b><Link to="https://github.com/Divyeshkalariya/student-attendance-app.git">Click here for source code</Link></p>
             </span>
             
         </div>
